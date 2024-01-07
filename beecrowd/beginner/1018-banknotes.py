@@ -32,12 +32,3 @@ print(notes_10, "nota(s) de R$ 10,00")
 print(notes_5, "nota(s) de R$ 5,00")
 print(notes_2, "nota(s) de R$ 2,00")
 print(notes_1, "nota(s) de R$ 1,00")
-
-
-# 5 nota(s) de R$ 100,00
-# 1 nota(s) de R$ 50,00
-# 1 nota(s) de R$ 20,00
-# 0 nota(s) de R$ 10,00
-# 1 nota(s) de R$ 5,00
-# 0 nota(s) de R$ 2,00
-# 1 nota(s) de R$ 1,00
