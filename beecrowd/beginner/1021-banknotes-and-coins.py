@@ -2,9 +2,6 @@
 # +8801763199000
 # www.mirnatul@gmail.com
 
-
-# use array for short code
-
 money = float(input(""))
 
 print("NOTAS:")
