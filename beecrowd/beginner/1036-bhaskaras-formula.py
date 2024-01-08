@@ -10,12 +10,3 @@ else:
     x2 = f"{(-b-math.sqrt(delta))/(2*a):.5f}"
     print("R1 =", x1)
     print("R2 =", x2)
-
-
-a=0
-if a==0:
-    print("hello")
-else:
-    b = 7
-    print(b) # b is accessible
-print(b) # b is not accessible
